@@ -24,6 +24,7 @@
     </repositories>
     <properties>
         <javadocExecutable>${java.home}/../bin/javadoc</javadocExecutable>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
         <dependency>
